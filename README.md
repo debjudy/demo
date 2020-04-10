@@ -6,4 +6,4 @@ This is a simple readme text file
 
 just some updates
 
-I hope this works.
+This is bound to cause trouble.
